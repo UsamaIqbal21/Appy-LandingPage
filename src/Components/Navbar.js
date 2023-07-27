@@ -63,7 +63,7 @@ const Navbar = () => {
                     FAQs
                   </a>
                   <a
-                    href="#Contact"
+                    href="#contact"
                     className="text-blue-gray-900 font-roboto text-button-m font-medium leading-relaxed 
                      transition ease-in-out delay-150 hover:-translate-y-1"
                   >
@@ -150,28 +150,28 @@ const Navbar = () => {
 
         <div className="p-4 space-y-7">
           <a
-            href="#"
+            href="#company"
             className="block text-blue-gray-900 font-roboto text-button-m font-medium leading-relaxed 
              transition ease-in-out delay-150 hover:-translate-y-1"
           >
             Company
           </a>
           <a
-            href="#"
+            href="#Testimonails"
             className="block text-blue-gray-900 font-roboto text-button-m font-medium leading-relaxed first-letter  
             transition ease-in-out delay-150 hover:-translate-y-1"
           >
             Testimonails
           </a>
           <a
-            href="#"
+            href="#Faqs"
             className="block text-blue-gray-900 font-roboto text-button-m font-medium leading-relaxed 
              transition ease-in-out delay-150 hover:-translate-y-1"
           >
             FAQs
           </a>
           <a
-            href="#"
+            href="#contact"
             className="block text-blue-gray-900 font-roboto text-button-m font-medium leading-relaxed
               transition ease-in-out delay-150 hover:-translate-y-1"
           >

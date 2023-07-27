@@ -2,7 +2,7 @@ import React from "react";
 import Images from "../Assets/Images";
 function Footer() {
   return (
-    <section>
+    <section id="contact">
       <div className="pt-12 pb-20 md:pb-5">
         <div className="container mx-auto px-4">
           <div className=" lg:px-20">
